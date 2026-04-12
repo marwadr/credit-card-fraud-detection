@@ -69,8 +69,8 @@ credit-card-fraud-detection-groupe25/
 |--------|------|--------------------------------------|----------|
 |Sprint 1|EPIC 1|Import & Exploration (EDA) |✅ Terminé |
 |Sprint 2|EPIC 2|Prétraitement — Classe `Pretraitement`|✅ Terminé |
-|Sprint 3|EPIC 3|Modèles ML — Classe `ModeleML` |🔜 En cours|
-|Sprint 3|EPIC 4|Évaluation — Classe `Evaluation` |🔜 En cours|
+|Sprint 3|EPIC 3|Modèles ML — Classe `ModeleML` |✅ Terminé|
+|Sprint 3|EPIC 4|Évaluation — Classe `Evaluation` |✅ Terminé|
 |Sprint 4|EPIC 5|Interface Gradio complète |🔜 En cours|
 |Sprint 5|EPIC 6|Export Power BI |⏳ Prévu |
 |Sprint 6|EPIC 7|Tests finaux + Documentation |⏳ Prévu |
@@ -107,13 +107,8 @@ pip install -r requirements.txt
 
 -----
 
-## 📈 Résultats (en cours)
+## 📈 Résultats 
 
-|Modèle |Precision|Recall|F1-Score|ROC-AUC|
-|-------------------|---------|------|--------|-------|
-|Logistic Regression|— |— |— |— |
-|Random Forest |— |— |— |— |
-|XGBoost |— |— |— |— |
 
 
 
