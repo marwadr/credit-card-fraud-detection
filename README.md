@@ -109,6 +109,12 @@ pip install -r requirements.txt
 
 ## 📈 Résultats 
 
+| Modèle              | Accuracy   | Précision  | Rappel | F1-score   | ROC-AUC    |
+| ------------------- | ---------- | ---------- | ------ | ---------- | ---------- |
+| Logistic Regression | 0.9741     | 0.0539     | 0.8737 | 0.1015     | 0.9601     |
+| Decision Tree       | 0.9896     | 0.1137     | 0.7684 | 0.1981     | 0.8535     |
+| Random Forest       | **0.9993** | **0.7732** | 0.7895 | **0.7812** | **0.9729** |
+| XGBoost             | 0.9762     | 0.0571     | 0.8526 | 0.1070     | 0.9510     |
 
 
 
